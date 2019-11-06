@@ -1,0 +1,31 @@
+Task 4: Test your website (20 marks) 
+
+Create a test.md file where you write up your test scenarios and see if your final product accurately represents the original brief. 
+You are to write up 5 questions and have a classmate test these cases for you. 
+The questions are to complete the following scenarios: 
+• Check for responsive design on 3 sizes (can use google chrome) 
+Only some content scales with size of web application.
+
+• Check for accurate colours from the supplied mood board and hf wireframes
+Colours match mood board.
+
+• Check that the final website matches the website design of assignment 2 
+Final website matches website wireframe designs.
+
+• Check that all images are loading on the testers machine or on code anywhere (ie. clone the repository) 
+All images correctly load to website
+
+• Check for usability – is everything clear and easy to use The tester must supply with his or hers name, but not student ID as this is private to the student.
+Website has good UI and is easy to navigate.
+
+Lewis Evans
+
+
+
+
+
+
+Link to Git Hub repository:  https://github.com/Keeganmillington27042007/Comp5209Assignment3.git
+
+Username: keegan.millington@gmail.com
+Password: Pulse228
